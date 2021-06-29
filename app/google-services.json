@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777352908448",
+    "project_id": "temidatabase",
+    "storage_bucket": "temidatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777352908448:android:b5d3392a2e28221df743c5",
+        "android_client_info": {
+          "package_name": "com.example.temi_robot_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777352908448-girknjkakc4fb0p7gats9sic3i42nlss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9hiqIVRLAH7QxRBqcT3v2gtR-cZ9Klc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777352908448-girknjkakc4fb0p7gats9sic3i42nlss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
